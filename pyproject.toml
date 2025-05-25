@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "quenchr"
+version = "0.1.0"
+description = "A personal hydration tracking application"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 
